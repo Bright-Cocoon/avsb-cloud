@@ -1,10 +1,10 @@
 # AVSB Cloud system
 
-**AVSB** is the _Anti Virus Sound Bubble_, a system to measure distances between 2 persons (holding 2 AVSB devices) using ultrasound signals.
+**AVSB** is the _Anti Virus Sound Bubble_, a system to measure the distance between any two persons (each holding an AVSB device) using ultrasound signals.
 
 The **AVSB Cloud** component is the central database and cryptographic key authority of the AVSB system.
 
-The **AVSB System** consists of these components:
+The **AVSB System** consists of the following components:
 
 - **AVSB Device** -- a small, light and wearable personal device that autonomously measures the distance to other devices
 - **AVSB App** -- an App for Apple/iOS and Andriod that can connect to the device to set it up and download data
